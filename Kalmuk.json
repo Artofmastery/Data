@@ -1,0 +1,26 @@
+[
+    {},
+    {
+        "1": true
+    },
+    {},
+    {},
+    {},
+    { "3": true },
+    {},
+    {},
+    {},
+    {},
+    {
+        "X": "focus",
+        "Y": "target",
+        "Z": "player",
+        "pX": "playerpet",
+        "pY": "party2",
+        "pZ": "party1",
+        "tX": "arena3",
+        "tY": "arena2",
+        "tZ": "arena1"
+    },
+    { "331601d": true }
+]
