@@ -1,0 +1,24 @@
+[
+    { "1":true,},
+    { "1":true, "3":true, },
+    { "2":true,},
+    {},
+    {},
+    { "3":true,},
+    { "1":true,},
+    {},
+    { "1":true,},
+    {},
+    {
+        "X": "focus",
+        "Y": "target",
+        "Z": "player",
+        "pX": "playerpet",
+        "pY": "party2",
+        "pZ": "party1",
+        "tX": "arena3",
+        "tY": "arena2",
+        "tZ": "arena1"
+    },
+    { "68448e3":true, "29edcda":true }
+]
